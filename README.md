@@ -2,7 +2,7 @@
 - 👀 I’m interested in Eletronics, Software and hardware
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me: samuelsimao47@gmail.com
+- 📫 How to reach me: 18000325@liberato.com.br
 
 <!---
 Samuca47prog/Samuca47prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
