@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Samuca47prog
-- 👀 I’m interested in Eletronics, Software and hardware
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me: samuelsimao47@gmail.com
 
 <!---
